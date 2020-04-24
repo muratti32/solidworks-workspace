@@ -10,7 +10,7 @@ In this workspace, there are works which I have done using Solidwork software.
 | <img src="https://github.com/muratti32/solidworks-workspace/blob/master/pervane/pervane2.png" width="200" />  | **Pervane :** <br> Propeller  |
 | <img src="https://github.com/muratti32/solidworks-workspace/blob/master/ara_parca4/ara_parca44.png" width="200" />  | **Ara_parca4 :** <br>Spacer used to connect two plates  |
 | <img src="https://github.com/muratti32/solidworks-workspace/blob/master/surface1/surface11.jpg" width="200" />  | **Surface1 :** <br>Surface example  |
-| <img src="https://github.com/muratti32/solidworks-workspace/blob/master/surface2/surface22.jpg" width="200" />  | **Surface2 :** <br>Surface example  |
+| <img src="https://github.com/muratti32/solidworks-workspace/blob/master/surface2/surface22.png" width="200" />  | **Surface2 :** <br>Surface example  |
 
 
 MIT License
