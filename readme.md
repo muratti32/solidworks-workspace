@@ -14,7 +14,7 @@ In this workspace, there are works which I have done using Solidwork software.
 | <img src="https://github.com/muratti32/solidworks-workspace/blob/master/surface3/surface3.png" width="200" />  | **Surface3  - Yüzey:** <br>Surface example  |
 | <img src="https://github.com/muratti32/solidworks-workspace/blob/master/surface4/surface4.png" width="200" />  | **Surface4  - Yüzey:** <br>Surface example  |
 | <img src="https://github.com/muratti32/solidworks-workspace/blob/master/ara_parca5/ara_parca5.png" width="200" />  | **ara_parca5 :** <br>Makina parçası  |
-| <img src="https://github.com/muratti32/solidworks-workspace/blob/master/pulley1/montaj.gif" width="200" />  | **Kasnak - Pulley :** <br>Makina kasnak montaj animasyonu  |
+| <img src="https://github.com/muratti32/solidworks-workspace/blob/master/Pulley1/montaj.gif"  />  | **Kasnak - Pulley :** <br>Makina kasnak montaj animasyonu  |
 
 
 MIT License
